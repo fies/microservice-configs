@@ -1,3 +1,3 @@
-datasource:
-  username: payment_qa_user
-  password: payment_qa_pass
+product:
+  service:
+    url: http://product-service.qa
