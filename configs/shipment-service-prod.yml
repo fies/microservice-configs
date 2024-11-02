@@ -1,0 +1,3 @@
+datasource:
+  username: shipment_prod_user
+  password: shipment_prod_pass

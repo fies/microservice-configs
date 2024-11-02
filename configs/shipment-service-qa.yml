@@ -1,0 +1,3 @@
+datasource:
+  username: shipment_qa_user
+  password: shipment_qa_pass
